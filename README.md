@@ -2,4 +2,4 @@
 
 Convert Fractal to Decimal
 
-Lab1.1
+Lab1
